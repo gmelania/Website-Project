@@ -1,5 +1,5 @@
 # Website-Project
-Food Blog - Ghirda Melania - 2 months
+Food Blog - Ghirda Melania
 
 This is a project representing a food blog/personal website. 
 Please download and unzip the "dir1" directory, then access the home page, "index.html" file, in your browser.
