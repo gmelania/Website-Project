@@ -1,4 +1,4 @@
-# proj_html_css
+# Website-Project
 Food Blog - Ghirda Melania - 2 months
 
 This is a project representing a food blog/personal website. 
