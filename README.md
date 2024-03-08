@@ -6,7 +6,7 @@ This project is a website that serves as a personal food blog. The website is de
 2. Access the home page, by opening the "index.html" file in your browser.
 3. Navigate through the pages using the menu and the buttons.
 ### Contributors
-Ghirda Melania - Developer
+Ghirda Melania - Project Developer
 
 
 
