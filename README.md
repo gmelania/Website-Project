@@ -11,10 +11,10 @@
 1. Clone the repository and install the dependencies.
  
 ```bash
-git clone https://github.com/gmelania/Flow-Builder-Project.git
+git clone https://github.com/gmelania/Website-Project.git
 ```
 
-2. Access the home page by opening the "index.html" file in your browser.
+2. Access the home page in your browser, by opening the "index.html" file in the `dir1` directory.
    
 3. Navigate through the pages using the menu and the buttons.
 
